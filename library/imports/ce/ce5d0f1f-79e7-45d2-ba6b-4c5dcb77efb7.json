@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label_benefit",
+    "texture": "1c6aa425-f6e8-4d71-b2a1-666274126a1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "version": "",
+    "serverRootDir": "",
+    "resourceRootDir": "/Users/macmac/project/fangchaoyuanzhou-client/dataosha_cocos/build/web-mobile",
+    "genManifestDir": "",
+    "localServerPath": "",
+    "hotAddressArray": [],
+    "buildTime": null,
+    "genTime": null,
+    "genVersion": null,
+    "region": "oss-cn-shenzhen",
+    "accessKeyId": "LTAI5t9BtFt8EvuadiGKyz9z",
+    "accessKeySecret": "QX79rUuRmhfqhF1jys79DLUrRrQXqD",
+    "bucket": "",
+    "shareBucket": "",
+    "h5location": "xingqiuart/game-dataosha",
+    "wxRemoteBucket": ""
+}

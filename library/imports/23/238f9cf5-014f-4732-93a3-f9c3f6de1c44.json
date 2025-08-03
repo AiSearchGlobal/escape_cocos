@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fengex",
+    "texture": "48f2c2aa-4e8f-4856-b6af-328a82d58815",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      472,
+      2
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      473,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

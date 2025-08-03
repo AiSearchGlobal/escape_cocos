@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label_pfqy",
+    "texture": "80335a2c-7307-4c5c-a287-ad233bf03feb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

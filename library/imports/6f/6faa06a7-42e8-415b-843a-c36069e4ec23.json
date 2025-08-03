@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icons8-buffering-96",
+    "texture": "5842af7b-8948-4ed7-9932-2e0e1cdc184b",
+    "atlas": "",
+    "rect": [
+      15,
+      13,
+      69,
+      73
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      96,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

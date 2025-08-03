@@ -1,0 +1,3961 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "men_Anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "zKKp1sjTzdWNr/WkXoA/G4Gu5i0",
+      "spine": "3.8.99",
+      "x": -183.84,
+      "y": -433.74,
+      "width": 477.92,
+      "height": 635.36,
+      "images": "",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "1",
+        "parent": "bone",
+        "x": -131.03,
+        "y": 182.34
+      },
+      {
+        "name": "2",
+        "parent": "bone",
+        "x": -37.02,
+        "y": 185.1
+      },
+      {
+        "name": "3",
+        "parent": "bone",
+        "x": 166.85,
+        "y": 186.03
+      },
+      {
+        "name": "4",
+        "parent": "bone",
+        "x": -172.76,
+        "y": 85.09
+      },
+      {
+        "name": "5",
+        "parent": "bone",
+        "x": -33.95,
+        "y": -131.19
+      },
+      {
+        "name": "6",
+        "parent": "bone",
+        "x": 221.5,
+        "y": -198.79
+      },
+      {
+        "name": "7",
+        "parent": "bone",
+        "x": -165.97,
+        "y": -153.89
+      },
+      {
+        "name": "8",
+        "parent": "bone",
+        "x": -17.09,
+        "y": -242.13
+      },
+      {
+        "name": "9（左半边门）",
+        "parent": "bone",
+        "x": 135.13,
+        "y": -413.65
+      },
+      {
+        "name": "9（右半边门）",
+        "parent": "bone",
+        "x": 287.46,
+        "y": -413.65
+      }
+    ],
+    "slots": [
+      {
+        "name": "Mask9",
+        "bone": "bone",
+        "attachment": "Mask9"
+      },
+      {
+        "name": "9（右半边门）",
+        "bone": "9（右半边门）",
+        "attachment": "9（右半边门）"
+      },
+      {
+        "name": "9（左半边门）",
+        "bone": "9（左半边门）",
+        "attachment": "9（左半边门）"
+      },
+      {
+        "name": "Mask8",
+        "bone": "bone",
+        "attachment": "Mask8"
+      },
+      {
+        "name": "8",
+        "bone": "8",
+        "attachment": "8"
+      },
+      {
+        "name": "Mask7",
+        "bone": "bone",
+        "attachment": "Mask7"
+      },
+      {
+        "name": "7",
+        "bone": "7",
+        "attachment": "7"
+      },
+      {
+        "name": "Mask6",
+        "bone": "bone",
+        "attachment": "Mask6"
+      },
+      {
+        "name": "6",
+        "bone": "6",
+        "attachment": "6"
+      },
+      {
+        "name": "Mask5",
+        "bone": "bone",
+        "attachment": "Mask5"
+      },
+      {
+        "name": "5",
+        "bone": "5",
+        "attachment": "5"
+      },
+      {
+        "name": "Mask4",
+        "bone": "bone",
+        "attachment": "Mask4"
+      },
+      {
+        "name": "4",
+        "bone": "4",
+        "attachment": "4"
+      },
+      {
+        "name": "Mask3",
+        "bone": "bone",
+        "attachment": "Mask3"
+      },
+      {
+        "name": "3",
+        "bone": "3",
+        "attachment": "3"
+      },
+      {
+        "name": "Mask2",
+        "bone": "bone",
+        "attachment": "Mask2"
+      },
+      {
+        "name": "2",
+        "bone": "2",
+        "attachment": "2"
+      },
+      {
+        "name": "Mask1",
+        "bone": "bone",
+        "attachment": "Mask1"
+      },
+      {
+        "name": "1",
+        "bone": "1",
+        "attachment": "1"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "1": {
+            "1": {
+              "x": -0.34,
+              "y": -0.22,
+              "width": 57,
+              "height": 39
+            }
+          },
+          "2": {
+            "2": {
+              "x": 1.19,
+              "y": -2.98,
+              "width": 90,
+              "height": 39
+            }
+          },
+          "3": {
+            "3": {
+              "x": 0.66,
+              "y": -3.91,
+              "width": 90,
+              "height": 39
+            }
+          },
+          "4": {
+            "4": {
+              "x": 1.24,
+              "y": 36.23,
+              "width": 18,
+              "height": 108
+            }
+          },
+          "5": {
+            "5": {
+              "x": -0.46,
+              "y": -2.68,
+              "width": 89,
+              "height": 36
+            }
+          },
+          "6": {
+            "6": {
+              "x": -0.22,
+              "y": 17.75,
+              "width": 18,
+              "height": 57
+            }
+          },
+          "7": {
+            "7": {
+              "x": 0.9,
+              "y": -31.69,
+              "width": 38,
+              "height": 75
+            }
+          },
+          "8": {
+            "8": {
+              "x": 36.94,
+              "y": 0.41,
+              "width": 85,
+              "height": 38
+            }
+          },
+          "9（右半边门）": {
+            "9（右半边门）": {
+              "x": -35.72,
+              "y": -2.1,
+              "scaleX": 1.02,
+              "width": 83,
+              "height": 36
+            }
+          },
+          "9（左半边门）": {
+            "9（左半边门）": {
+              "x": 32.72,
+              "y": -2.09,
+              "scaleX": 1.02,
+              "width": 82,
+              "height": 36
+            }
+          },
+          "Mask1": {
+            "Mask1": {
+              "type": "clipping",
+              "end": "1",
+              "vertexCount": 4,
+              "vertices": [
+                -160.6,
+                202.27,
+                -159.8,
+                161.87,
+                -101.91,
+                162.07,
+                -102.51,
+                202.47
+              ],
+              "color": "ce3a3aff"
+            }
+          },
+          "Mask2": {
+            "Mask2": {
+              "type": "clipping",
+              "end": "2",
+              "vertexCount": 4,
+              "vertices": [
+                -81.57,
+                203.29,
+                -81.3,
+                160.7,
+                9.88,
+                161.52,
+                10.16,
+                203.56
+              ],
+              "color": "dfff00ff"
+            }
+          },
+          "Mask3": {
+            "Mask3": {
+              "type": "clipping",
+              "end": "3",
+              "vertexCount": 4,
+              "vertices": [
+                121.97,
+                202.34,
+                122.15,
+                161.21,
+                213.01,
+                162.37,
+                212.88,
+                202.93
+              ],
+              "color": "ff7f00ff"
+            }
+          },
+          "Mask4": {
+            "Mask4": {
+              "type": "clipping",
+              "end": "4",
+              "vertexCount": 4,
+              "vertices": [
+                -180.76,
+                175.8,
+                -180.54,
+                66.14,
+                -162.11,
+                67.02,
+                -162.78,
+                176.03
+              ],
+              "color": "0ffc87ff"
+            }
+          },
+          "Mask5": {
+            "Mask5": {
+              "type": "clipping",
+              "end": "5",
+              "vertexCount": 4,
+              "vertices": [
+                -79.34,
+                -113.95,
+                -78.27,
+                -153.08,
+                10.97,
+                -152.28,
+                10.44,
+                -113.42
+              ],
+              "color": "0ae4eeff"
+            }
+          },
+          "Mask6": {
+            "Mask6": {
+              "type": "clipping",
+              "end": "6",
+              "vertexCount": 4,
+              "vertices": [
+                210.63,
+                -152.17,
+                210.63,
+                -209.68,
+                232.23,
+                -209.95,
+                231.42,
+                -151.9
+              ],
+              "color": "0073ffff"
+            }
+          },
+          "Mask7": {
+            "Mask7": {
+              "type": "clipping",
+              "end": "7",
+              "vertexCount": 4,
+              "vertices": [
+                -183.6,
+                -147.94,
+                -183.84,
+                -223.16,
+                -145.38,
+                -222.91,
+                -145.38,
+                -148.19
+              ],
+              "color": "8300ffff"
+            }
+          },
+          "Mask8": {
+            "Mask8": {
+              "type": "clipping",
+              "end": "8",
+              "vertexCount": 4,
+              "vertices": [
+                -22.63,
+                -222.26,
+                -22.63,
+                -261.01,
+                64.96,
+                -260.79,
+                64.29,
+                -222.49
+              ],
+              "color": "c131ceff"
+            }
+          },
+          "Mask9": {
+            "Mask9": {
+              "type": "clipping",
+              "end": "9（左半边门）",
+              "vertexCount": 4,
+              "vertices": [
+                125.68,
+                -397.19,
+                125.68,
+                -435.27,
+                294.02,
+                -434.29,
+                294.32,
+                -397.24
+              ],
+              "color": "ffffffff"
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "close1": {
+        "slots": {
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": -55.76,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close2": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": "2"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {
+                "x": -55.76
+              }
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "2": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": 90.04,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close3": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": "3"
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "3": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": 91.05,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close4": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": "4"
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "4": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "y": -110.02,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close5": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": "5"
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "5": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": 90.52,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close6": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": "6"
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "6": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "y": 58.17,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close7": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": "7"
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "7": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "y": -73.7,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close8": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": "8"
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "8": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": -87.1,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "close9": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": "9（右半边门）"
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": "9（左半边门）"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "9（右半边门）": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": 84.82,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "x": -84.82,
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "guan": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": "1"
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": "2"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": "3"
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": "4"
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": "5"
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": "6"
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": "7"
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": "8"
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": "9（右半边门）"
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": "9（左半边门）"
+              }
+            ]
+          }
+        }
+      },
+      "guan1": {
+        "slots": {
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan2": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": "2"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan3": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": "3"
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan4": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": "4"
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan5": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": "5"
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan6": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": "6"
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan7": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": "7"
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan8": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": "8"
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "guan9": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": "9（右半边门）"
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": "9（左半边门）"
+              }
+            ]
+          }
+        }
+      },
+      "open": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {
+                "x": -55.76
+              }
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          }
+        }
+      },
+      "open1": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": "1"
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -57.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open2": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": "2"
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -57.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "2": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 89.98
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open3": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": "3"
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -57.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 90.07
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open4": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": "4"
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -57.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "y": -109.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open5": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": "5"
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -57.09
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "5": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 90.52
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open6": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": "6"
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "5": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "6": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "time": 0.3333,
+                "y": 58.3
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open7": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": "7"
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "5": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "6": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "7": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "y": -73.4
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open8": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": "8"
+              },
+              {
+                "time": 0.3333,
+                "name": "8"
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "5": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "6": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "7": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "8": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "time": 0.3333,
+                "x": -84.84
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      },
+      "open9": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "4": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "5": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "6": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "7": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "8": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "9（右半边门）": {
+            "attachment": [
+              {
+                "name": "9（右半边门）"
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "attachment": [
+              {
+                "name": "9（左半边门）"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "1": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "2": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "3": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "4": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "5": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "6": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "7": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {}
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "8": {
+            "rotate": [
+              {}
+            ],
+            "translate": [
+              {
+                "x": -84.84
+              }
+            ],
+            "scale": [
+              {}
+            ],
+            "shear": [
+              {}
+            ]
+          },
+          "9（右半边门）": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": 87.64
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          },
+          "9（左半边门）": {
+            "rotate": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.3333,
+                "x": -85.48
+              }
+            ],
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nmen_Anim.png\nsize: 688,44\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 626, 2\n  size: 57, 39\n  orig: 57, 39\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 2, 2\n  size: 90, 39\n  orig: 90, 39\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 2, 2\n  size: 90, 39\n  orig: 90, 39\n  offset: 0, 0\n  index: -1\n4\n  rotate: true\n  xy: 94, 23\n  size: 18, 108\n  orig: 18, 108\n  offset: 0, 0\n  index: -1\n5\n  rotate: false\n  xy: 204, 5\n  size: 89, 36\n  orig: 89, 36\n  offset: 0, 0\n  index: -1\n6\n  rotate: true\n  xy: 94, 3\n  size: 18, 57\n  orig: 18, 57\n  offset: 0, 0\n  index: -1\n7\n  rotate: true\n  xy: 550, 3\n  size: 38, 74\n  orig: 38, 75\n  offset: 0, 0\n  index: -1\n8\n  rotate: false\n  xy: 295, 3\n  size: 85, 38\n  orig: 85, 38\n  offset: 0, 0\n  index: -1\n9（右半边门）\n  rotate: false\n  xy: 382, 6\n  size: 83, 35\n  orig: 83, 36\n  offset: 0, 1\n  index: -1\n9（左半边门）\n  rotate: false\n  xy: 467, 6\n  size: 81, 35\n  orig: 82, 36\n  offset: 1, 1\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "77867121-928a-442a-8d56-7fa2d6d194e7"
+    }
+  ],
+  "textureNames": [
+    "men_Anim.png"
+  ],
+  "scale": 1
+}

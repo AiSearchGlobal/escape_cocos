@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "room_name_6",
+    "texture": "ba65e3c5-9034-4bfe-a403-9c482ccd06f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

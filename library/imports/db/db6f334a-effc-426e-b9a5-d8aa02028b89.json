@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "linghuntubiao",
+    "texture": "1c2c7839-274d-48c2-805e-129fa84c0e7a",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      30,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

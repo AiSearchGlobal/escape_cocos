@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_phb_1",
+    "texture": "844fd6c7-5b6b-4cfd-9ae7-4bb107b0a301",
+    "atlas": "",
+    "rect": [
+      1,
+      7,
+      329,
+      244
+    ],
+    "offset": [
+      0,
+      -3.5
+    ],
+    "originalSize": [
+      331,
+      251
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

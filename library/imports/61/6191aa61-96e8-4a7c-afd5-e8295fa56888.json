@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_heibian_1",
+    "texture": "21fd2f98-f42c-4768-b62c-a17ddc5acfd0",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      61,
+      67
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

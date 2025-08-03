@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_ranking",
+    "texture": "7806c0e3-4362-4026-b47f-8bb408a99234",
+    "atlas": "",
+    "rect": [
+      10,
+      8,
+      156,
+      62
+    ],
+    "offset": [
+      5,
+      -1
+    ],
+    "originalSize": [
+      166,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

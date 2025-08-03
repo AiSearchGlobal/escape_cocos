@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pop_win1",
+    "texture": "b9c2c60e-b7d1-4f91-9510-81365d4350ae",
+    "atlas": "",
+    "rect": [
+      0,
+      76,
+      750,
+      456
+    ],
+    "offset": [
+      0,
+      -38
+    ],
+    "originalSize": [
+      750,
+      532
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

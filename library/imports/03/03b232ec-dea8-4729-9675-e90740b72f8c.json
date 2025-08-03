@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_whz",
+    "texture": "e8df95f7-d00b-470e-8cc5-31fab5b456ba",
+    "atlas": "",
+    "rect": [
+      0,
+      305,
+      375,
+      202
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      812
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

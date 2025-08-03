@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label_skin_benefit",
+    "texture": "eb7c2637-7857-49d7-94fa-6a70bce2d69e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      93,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

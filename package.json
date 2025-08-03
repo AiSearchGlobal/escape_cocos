@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.16.0",
+    "aws-sdk": "^2.1286.0",
+    "cocosapi": "git+ssh://git@192.168.3.197:opensource/cocos_api.git",
+    "jpushplugin": "git+ssh://git@192.168.3.197:game/cocos_jpush.git",
+    "weixinplugin": "git+ssh://git@192.168.3.197:game/cocos_weixin.git"
+  },
+  "devDependencies": {
+    "@types/ali-oss": "^6.16.2"
+  }
+}

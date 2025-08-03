@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tc_szb",
+    "texture": "d5b75ac5-f0be-47fa-8539-5834fe736d99",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      749,
+      106
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      750,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

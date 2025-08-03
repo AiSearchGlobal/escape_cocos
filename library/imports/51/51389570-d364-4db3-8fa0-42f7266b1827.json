@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wode_jilu",
+    "texture": "535132c3-cdc7-46f8-9ccc-67968f50b26c",
+    "atlas": "",
+    "rect": [
+      1,
+      7,
+      487,
+      106
+    ],
+    "offset": [
+      -43.5,
+      -2
+    ],
+    "originalSize": [
+      576,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
